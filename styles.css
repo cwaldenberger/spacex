@@ -11,7 +11,6 @@ body{
 .hero{
     background-image: url("purple-lights.webp");
     background-size: cover;
-    padding-top: 1rem;
     padding-top: 25%;
     padding-bottom: 25%;
 }
